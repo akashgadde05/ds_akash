@@ -24,6 +24,8 @@ Matplotlib / Seaborn – Data visualization and graphical representation
 
 Jupyter Notebook / Google Colab – Interactive development environment
 
+GOOGLE COLLAB LINK = https://colab.research.google.com/drive/16pkEkSkoHGbmOuRg6hgS4L_N0RRepYZF?usp=sharing
+
 ⚙️ Installation & Setup
 Repository Cloning
 bash
