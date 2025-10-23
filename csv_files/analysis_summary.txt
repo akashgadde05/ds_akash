@@ -1,0 +1,23 @@
+
+1. SENTIMENT DISTRIBUTION:
+   - Fear days: 29.5%
+   - Greed days: 23.9%
+   - Extreme Fear days: 19.2%
+   - Extreme Greed days: 12.3%
+   - Neutral days: 15.0%
+
+2. PROFITABILITY BY SENTIMENT:
+   - Average PnL (Fear): $1.62
+   - Average PnL (Greed): $1.62
+   - Statistical significance (Fear vs Greed PnL): No (p≥0.05)
+
+3. TRADING VOLUME:
+   - Total volume (Fear): $399,458,303
+   - Total volume (Greed): $66,328,932
+
+4. WIN RATE:
+   - Win rate (Fear): 31.73%
+   - Win rate (Greed): 33.04%
+
+5. POSITION BIAS:
+   - Side preference is significantly associated with sentiment (Chi-square p-value: 0.0000)
